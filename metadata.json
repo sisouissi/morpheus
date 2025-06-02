@@ -1,0 +1,6 @@
+{
+  "name": "SAHOS Diagnostic Tool",
+  "description": "A web application for comprehensive diagnostic investigation of SAHOS (Syndrome d'Apnées-Hypopnées Obstructives du Sommeil), guiding through patient demographics, history, clinical symptoms, questionnaires, polygraphy data, and AI-assisted diagnosis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
